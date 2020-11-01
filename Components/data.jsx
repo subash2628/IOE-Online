@@ -1,0 +1,177 @@
+export const data = [
+  {
+    _id: 0,
+    title: "zero title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 1,
+    title: "one title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 2,
+    title: "two title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 3,
+    title: "three title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 4,
+    title: "four title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 5,
+    title: "five title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 6,
+    title: "six title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 7,
+    title: "seven title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 8,
+    title: "eight title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+    publishDate: "2018-01-03T19:04:28.809Z",
+  },
+  {
+    _id: 9,
+    title: "nine title",
+    Views: 2,
+    Likes: 5,
+    Comments: 3,
+  },
+];
+
+export const Catagories = [
+  {
+    _id: 0,
+    name: "Books",
+    data: [
+      {
+        _id: 0,
+        title: "one title",
+        Views: 5,
+        Likes: 2,
+        Link: "https://www.google.com",
+      },
+      {
+        _id: 1,
+        title: "one title",
+        Views: 5,
+        Likes: 2,
+        Link: "https://www.google.com",
+      },
+      {
+        _id: 2,
+        title: "one title",
+        Views: 2,
+        Likes: 5,
+        Link: "https://www.google.com",
+      },
+    ],
+  },
+  {
+    _id: 1,
+    name: "Courses",
+    data: [
+      {
+        _id: 0,
+        title: "two title",
+        Views: 2,
+        Likes: 5,
+        Link: "https://www.google.com",
+      },
+      {
+        _id: 1,
+        title: "one title",
+        Views: 2,
+        Likes: 5,
+        Link: "https://www.google.com",
+      },
+    ],
+  },
+  {
+    _id: 2,
+    name: "Projects",
+    data: [
+      {
+        _id: 0,
+        title: "three title",
+        Views: 2,
+        Likes: 5,
+        Link: "https://www.google.com",
+      },
+    ],
+  },
+  {
+    _id: 3,
+    name: "Notes",
+    data: [
+      {
+        _id: 9,
+        title: "nine title",
+        Views: 2,
+        Likes: 5,
+        Link: "https://www.google.com",
+      },
+    ],
+  },
+  {
+    _id: 4,
+    name: "Softwares",
+    data: [],
+  },
+  {
+    _id: 5,
+    name: "Syllabus",
+    data: [],
+  },
+  {
+    _id: 6,
+    name: "Videos",
+    data: [],
+  },
+  {
+    _id: 7,
+    name: "Extras",
+    data: [],
+  },
+];
